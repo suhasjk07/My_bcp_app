@@ -5,3 +5,5 @@ streamlit==1.39.0
 google-generativeai
 geopy
 streamlit-chat
+pyttsx3
+json
