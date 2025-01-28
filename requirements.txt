@@ -4,3 +4,4 @@ scikit_learn==1.6.1
 streamlit==1.39.0
 google-generativeai
 geopy
+streamlit-chat
