@@ -1,14 +1,14 @@
-numpy==2.2.2
 pandas==2.2.3
 scikit_learn==1.6.1
 streamlit==1.39.0
 google-generativeai
-geopy==2.4.0
 streamlit-chat
 pyttsx3==2.7
 fromUtf8==1.1.8
 toUtf8==1.1.8
 voice
 py-espeak-ng
-python==3.10.*
 espeak==1.0.0
+python==3.9.*
+numpy==1.21.5
+geopy==2.3.0
