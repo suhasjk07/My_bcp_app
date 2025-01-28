@@ -6,7 +6,7 @@ google-generativeai
 geopy
 streamlit-chat
 pyttsx3==2.7
-espeak --no-binary :all:
+espeak==1.33
 fromUtf8
 toUtf8 
 voice
