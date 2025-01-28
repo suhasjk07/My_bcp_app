@@ -3,11 +3,11 @@ pandas==2.2.3
 scikit_learn==1.6.1
 streamlit==1.39.0
 google-generativeai
-geopy
+geopy==2.4.0
 streamlit-chat
 pyttsx3==2.7
-fromUtf8
-toUtf8 
+fromUtf8==1.1.8
+toUtf8==1.1.8
 voice
 py-espeak-ng
 python==3.10.*
