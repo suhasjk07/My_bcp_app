@@ -6,4 +6,3 @@ google-generativeai
 geopy
 streamlit-chat
 pyttsx3
-json
