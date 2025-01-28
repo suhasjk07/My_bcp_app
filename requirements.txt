@@ -6,4 +6,4 @@ google-generativeai
 geopy
 streamlit-chat
 pyttsx3
-eSpeak
+espeak
