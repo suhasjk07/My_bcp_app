@@ -6,8 +6,9 @@ google-generativeai
 geopy
 streamlit-chat
 pyttsx3==2.7
-espeak==1.0.0
 fromUtf8
 toUtf8 
 voice
 py-espeak-ng
+python==3.10.*
+espeak==1.0.0
